@@ -1,47 +1,43 @@
+# Hey, I'm Arshia 👋
 
-<h1 align="center">Hey, I'm Arshia 👋</h1>
+### Computer Engineering Student | Aspiring Pentester
 
-<h3 align="center">
-  Computer Engineering Student | Aspiring Pentester
-</h3>
-
-<p align="center">
-  <i>Code, curiosity & controlled chaos.</i>
-</p>
+*Code, curiosity & controlled chaos.*
 
 ---
 
-### 🔐 About Me
+### A little about me
 
-I'm a Computer Engineering student interested in cybersecurity, with a particular focus on **Web Application Security and Penetration Testing**.
+I'm a Computer Engineering student with a growing interest in cybersecurity, especially web application security.
 
-I enjoy understanding how web applications work, discovering where they break, and learning how to make them more secure.
+I like taking things apart, figuring out how they work, and occasionally finding ways to make them do things they weren't supposed to do. That's probably what got me into penetration testing.
 
-I believe the best way to learn security is to stay curious, experiment, and understand the why behind every vulnerability.
+Currently spending most of my time learning web security, exploring vulnerabilities, and getting more comfortable with Linux and networking.
 
-### 🎯 Currently Exploring
+### What I'm into 🔍
 
-- Web Application Penetration Testing
-- HTTP & Web Security Fundamentals
-- Linux & Computer Networking
-- Burp Suite and Security Testing Tools
+- Web Application Security
+- Penetration Testing
+- Understanding vulnerabilities, not just exploiting them
+- Linux & Networking
+- A little bit of Backend Development
 
-### 🛠️ Tools & Technologies
+### Currently working on 🛠️
 
-- **Security:** Kali Linux, Burp Suite
-- **Programming:** Python
-- **Web:** HTML, CSS, Django
-- **Tools:** Git, GitHub
+- OverTheWire Natas
+- Building my Linux and networking fundamentals
+- Learning more about HTTP and web technologies
+- Documenting what I learn along the way
 
-### 🚀 What I'm Working On
+### Tools & Tech
 
-- Practicing hands-on web security labs
-- Documenting my learning journey through security writeups
-- Strengthening my understanding of Linux and networking
-- Exploring secure software development
+- **Languages:** Python, HTML, CSS
+- **Backend:** Django (learning)
+- **Environment:** Kali Linux
+- **Version Control:** Git & GitHub
 
 ---
 
 <p align="center">
-  <i>Always curious. Always breaking things (ethically).</i>
+  <i>Still learning, still breaking things (ethically).</i>
 </p>
